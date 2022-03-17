@@ -1,7 +1,7 @@
 # FrontAngularAlgoritmos
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.0.6.
-
+dqdwq
 # IMPORTANTE
 Este proyecto conecta directamente con el back de nodejs proporcionado a parte. Para evitar CORS se hace mediante el proxy de Angular, por lo que es nececesario usar el comando npm start para levantar el proyecto,  ya que, mediante éste, se configura automaticamente dicho proxy. 
 
